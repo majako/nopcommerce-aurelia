@@ -182,3 +182,4 @@ src/Presentation/Nop.Web/wwwroot/files/exportimport/*
 src/packages/*
 
 src/Presentation/Nop.Web/node_modules
+src/Presentation/Nop.Web/wwwroot/dist
